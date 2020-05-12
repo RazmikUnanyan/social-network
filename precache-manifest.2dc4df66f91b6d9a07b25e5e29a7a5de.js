@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d0b637602bfb7f966d3d9b78f6136c2",
+    "revision": "cced1c4d418a5e8e37c7ec5afc1304f7",
     "url": "/nsocial-network/index.html"
   },
   {
