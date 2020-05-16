@@ -1,0 +1,50 @@
+.header {
+
+display: grid;
+    grid-template-columns: 60px 570px 150px;
+    margin:  0 auto;
+    width: 660px;
+
+
+}
+.loginBlock {
+    padding: 10px 0 0 0px;
+    color: aliceblue;
+    height: 20px;
+}
+.loginBlock a {
+    text-decoration: none;
+}
+
+.logo {
+    padding: 10px 0 0 5px;
+    color: aliceblue;
+    font-family: Gabriola;
+}
+
+.inputStyle {
+    padding: 10px 0 0 5px;
+    height: 10px;
+
+
+}
+.inputStyle input{
+   border-radius: 10px;
+    padding: 3px;
+    border: none;
+
+}
+.loginBlock button {
+    background-color: #3496a5;
+    border: none;
+    color: white;
+}
+
+.loginBlock button:hover {
+    background-color: #8bfcff;
+}
+
+.loginButton {
+    color: white;
+}
+

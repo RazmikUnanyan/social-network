@@ -1,0 +1,59 @@
+
+.usersPage {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 150px 400px ;
+padding: 10px;
+
+}
+
+.imgFollow {
+    background-color: WhiteSmoke;
+
+    height: 150px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.imgFollow:hover {
+    background-color: rgba(187, 190, 190, 0.49);
+}
+
+.useraInfo {
+    height: 130px;
+    background-color:WhiteSmoke;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.useraInfo a{
+    text-decoration: none;
+    color: black;
+}
+.useraInfo:hover {
+    background-color: rgba(187, 190, 190, 0.49);
+}
+
+.status {
+    color: #c6c9da;
+}
+
+.imgFollow img {
+
+    height: 110px;
+    width: 120px;
+    border-radius: 90px;
+}
+
+.imgFollow button{
+width: 130px;
+    height: 30px;
+    border: none;
+    background-color: #3496a5;
+    color: white;
+
+}
+
+
+
+

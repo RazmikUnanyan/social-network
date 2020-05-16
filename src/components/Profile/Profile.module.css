@@ -1,0 +1,8 @@
+.profile {
+    display: grid;
+    grid-template-rows: 300px 330px;
+    grid-gap: 10px;
+    background-color:  white;
+    padding: 10px;
+
+}

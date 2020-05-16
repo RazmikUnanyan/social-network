@@ -1,0 +1,42 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItems a {
+    text-decoration: none;
+    color: white;
+}
+
+.dialogsItems a.active {
+    color: #ff00e3;
+}
+
+.dialog {
+    margin: 50px;
+}
+
+.messages {
+    margin-left: 100px;
+    height: 750px;
+    color: black;
+    padding: 50px;
+    background-color: WhiteSmoke;
+}
+
+.message {
+}
+
+.dialogsItems img {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.textarea {
+    resize: vertical;
+    border-width: 3px;
+    outline: none;
+    background-color: #eaeeff;
+    border-radius: 5px;
+}

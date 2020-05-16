@@ -1,0 +1,24 @@
+
+
+
+.friendslittle {
+    margin-top: 5px;
+    padding: 5px 5px 0 10px;
+    background-color: WhiteSmoke ;
+}
+
+
+.friendslittle img{
+
+    height:70px;
+    width:70px;
+    border-radius: 10px;
+
+}
+
+.friendslittle:hover {
+
+    background-color: rgba(187, 190, 190, 0.49);
+
+}
+
